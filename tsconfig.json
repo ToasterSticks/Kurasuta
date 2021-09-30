@@ -8,7 +8,7 @@
 		"moduleResolution": "node",
 		"declaration": true,
 		"declarationDir": "./dist/typings",
-		"lib": ["es2017"],
+		"lib": ["ESNext"],
 		"resolveJsonModule": true,
 		"types": ["@types/node"]
 	},
