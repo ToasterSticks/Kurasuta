@@ -19,6 +19,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+		"discord.js": "github:ToasterSticks/discord.js",
     "node-fetch": "^2.6.2",
     "veza": "^1.1.0"
   },
